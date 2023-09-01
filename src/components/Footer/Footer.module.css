@@ -1,0 +1,17 @@
+@import "../../vars.css";
+
+.footerContainer{
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+    width: 100%;
+}
+.footer {
+    color:white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;align-items: center;
+    gap: 10px;
+    margin: 20px;
+   
+}

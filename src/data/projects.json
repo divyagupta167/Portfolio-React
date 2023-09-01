@@ -1,0 +1,50 @@
+[
+    {
+      "title": "Character Search App",
+      "imageSrc": "projects/work1.gif",
+      "description": "The app leverages the Rick and Morty API to fetch character data and presents it in a user-friendly interface.",
+      "skills": ["React", "Bootstrap","React-Router","Pagination"],
+      "demo": "https://character-search-app-divyagupta167.vercel.app/",
+      "source": "https://github.com/divyagupta167/Character-Search-App"
+    },
+    {
+      "title": "React UI",
+      "imageSrc": "projects/work2.gif",
+      "description": "A website using React, react DOM, react router DOM, react-icons, react-responsive-carousel, react-router-hash-link,sass",
+      "skills": ["React", "React-Router-Dom", "React-Icons", "Sass"],
+      "demo": "https://react-ui-git-main-divyagupta167.vercel.app/",
+      "source": "https://github.com/divyagupta167/React-UI"
+    },
+    {
+      "title": "Weather App",
+      "imageSrc": "projects/work3.gif",
+      "description": "The Weather App is a simple web application that allows users to view weather information for different cities.",
+      "skills": ["HTML","JavaScript", "CSS", "Bootstrap"],
+      "demo": "https://divyagupta167.github.io/Weather-App/",
+      "source": "https://github.com/divyagupta167/Weather-App"
+    },
+    {
+      "title": "Dictionary App",
+      "imageSrc": "projects/work4.gif",
+      "description": "The App allows users to search for the meaning, part of speech, example sentences, antonyms, synonyms, and additional information about a given word.",
+      "skills": ["HTML", "JavaScript", "CSS","Dictionary API"],
+      "demo": "https://divyagupta167.github.io/Dictionary-App/",
+      "source": "https://github.com/divyagupta167/Dictionary-App"
+    },
+    {
+      "title": " Loan Calculator ",
+      "imageSrc": "projects/work5.gif",
+      "description": " The app allows users to calculate their mortgage loan details based on the input values for home value, down payment, interest rate, and loan term.",
+      "skills": ["React", "React Hooks", "Material UI Components"],
+      "demo": "https://divyagupta167.github.io/Loan-Calculator/",
+      "source": "https://github.com/divyagupta167/Loan-Calculator"
+    },
+    {
+      "title": "To-Do App",
+      "imageSrc": "projects/work6.gif",
+      "description": " The app allows users to add, edit, and delete tasks with their respective due dates and descriptions. Tasks are stored in the browser's localStorage.",
+      "skills": ["HTML",  "JavaScript","CSS","Local Storage"],
+      "demo": "https://divyagupta167.github.io/Todo/",
+      "source": "https://github.com/divyagupta167/Todo"
+    }
+  ]
