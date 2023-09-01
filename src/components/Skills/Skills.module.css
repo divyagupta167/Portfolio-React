@@ -8,7 +8,7 @@
   display: grid;
   grid-template-columns: 1fr 1fr;
 column-gap: 40px;
-}
+} 
 .title{
   font-size: 40px;
   font-weight: 700;
@@ -99,4 +99,16 @@ column-gap: 40px;
   .skills__level {
     padding-left: 10px;
     font-size: 0.89rem;
+  }
+
+  @media screen and (max-width:830px) {
+    .skills__container {
+      margin-top: 76px;
+      color: var(--color-text);
+      margin: 0 10%;
+      display: grid;
+      grid-template-columns: 1fr ;
+    column-gap: 40px;
+    }
+    
   }
